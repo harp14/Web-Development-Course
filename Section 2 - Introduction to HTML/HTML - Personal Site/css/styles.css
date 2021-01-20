@@ -1,0 +1,21 @@
+body {
+  background-color: #f0f5f9;
+  font-family: "Roboto", cursive;
+}
+
+hr {
+  border-color: #52616b;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  opacity: 50%;
+  width: 6%;
+}
+
+h1 {
+  color: #52616b;
+}
+
+h3 {
+  color: #52616b;
+}
